@@ -1,5 +1,4 @@
 
-حسنا، سأحاول تعديل أكواد صفحة index.html بناء على ملاحظاتك. هذه هي الشفرة الجديدة:
 
 <html> <head> <script src=“https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js”></script> <script> // دالة لفتح نافذة جديدة تحتوي على form لإدخال بيانات العميل الجديد function addClient() { window.open(“add_client.html”, “_blank”); }
 
