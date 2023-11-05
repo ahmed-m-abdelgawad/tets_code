@@ -1,3 +1,9 @@
+-- إنشاء قاعدة بيانات باسم clients
+CREATE DATABASE clients;
+
+-- استخدام قاعدة بيانات clients
+USE clients;
+
 
 -- إنشاء جدول clients
 CREATE TABLE clients (
